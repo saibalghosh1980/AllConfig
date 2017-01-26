@@ -1,4 +1,4 @@
-test-word: Saibal Ghosh SKG123
+test-word: Saibal Ghosh SKG
 test:
   rabbitmq:
      host: localhost
