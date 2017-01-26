@@ -1,1 +1,7 @@
 test-word: Saibal Ghosh SKG123
+test:
+  rabbitmq:
+     host: localhost
+     port: 5672
+     username: fdc
+     password: fdc
