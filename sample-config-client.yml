@@ -1,10 +1,10 @@
 test-word: Saibal Ghosh SKG
-#test:
- # rabbitmq:
-  #   host: localhost
-   #  port: 5672
-    # username: fdc
-     #password: fdc
+test:
+  rabbitmq:
+     host: localhost
+    port: 5672
+     username: fdc
+     password: fdc
 endpoints:
   shutdown:
     enabled: true
