@@ -1,10 +1,10 @@
 test-word: Saibal Ghosh SKG
 test:
   rabbitmq:
-     host: localhost
+    host: localhost
     port: 5672
-     username: fdc
-     password: fdc
+    username: fdc
+    password: fdc
 endpoints:
   shutdown:
     enabled: true
